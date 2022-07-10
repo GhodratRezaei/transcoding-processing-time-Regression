@@ -114,3 +114,5 @@ because some data have not been scaled properly during the standardization.
 
 ## **Usage**
 
+To run the Algorithm, use Google Colab or Jupiter NoteBook.
+
